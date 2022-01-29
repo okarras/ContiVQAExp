@@ -64,24 +64,16 @@
 
 <p align="justify">
     ContiVQAExp is a software tool for designing, conducting, and analyzing subjective video quality assessment experiments. The special feature of this tool is the possibility of a continuous collection of a subject's assessment data for generic video quality characteristics during video playback. In this way, we are able to perform analyses that provide detailed insights into the relationships between the implementation of video quality characteristics and their effects on a viewer’s quality assessment.
-  </p>
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description`
+</p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 ### Built With
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [OpenJDK](https://openjdk.java.net/)
+* [JavaFX](https://openjfx.io/)
+* [Gson](https://github.com/google/gson)
+* [FX Gson](https://github.com/joffrey-bion/fx-gson)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -176,7 +168,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Your Name - [@OliverKarras](https://twitter.com/OliverKarras) - me@oliver-karras.de
 
 Project Link: [https://github.com/okarras/ContiVQAExp](https://github.com/okarras/ContiVQAExp)
 
