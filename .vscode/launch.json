@@ -6,17 +6,11 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Launch Current File",
+            "name": "Launch Main",
             "request": "launch",
-            "mainClass": "${file}"
-        },
-        {
-            "type": "java",
-            "name": "Launch App",
-            "request": "launch",
-            "mainClass": "App",
+            "mainClass": "application.Main",
             "projectName": "ContiVQAExp_aa81ecb1",
-            "vmArgs": "--module-path  \"C:\\Program Files\\Java\\javafx-sdk-17.0.2\\lib\" --add-modules javafx.controls,javafx.fxml"
-        }
+            "vmArgs": "--module-path  \"C:\\Program Files\\Java\\javafx-sdk-17.0.2\\lib\" --add-modules javafx.base,javafx.controls,javafx.fxml,javafx.graphics,javafx.media,javafx.swing,javafx.web,javafx.swt"
+        },
     ]
 }
