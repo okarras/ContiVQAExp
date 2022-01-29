@@ -6,8 +6,9 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Twitter][twitter-shield]][twitter-url]
+<!--[![Twitter][twitter-shield]][twitter-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+-->
 
 <!-- PROJECT LOGO -->
 <br />
@@ -16,20 +17,17 @@
     <img src="Images/logo.svg" alt="Logo" width="300" height="150">
   </a>
 
-<h3 align="center">Continuous Video Quality Assessment Experiments</h3>
+<h2 align="center">Continuous Video Quality Assessment Experiments</h2>
 
   <p align="center">
-    This project provides a tool for designing, conducting, and analyzing subjective video quality assessment experiments that support the continuous collection of a subject's assessment data for generic video quality characteristics during video playback.
-    <br />
-    <a href="https://github.com/okarras/ContiVQAExp">View Demo</a>
-    ·
+  <br />
+    <!--<a href="https://github.com/okarras/ContiVQAExp">View Demo</a>
+    ·-->
     <a href="https://github.com/okarras/ContiVQAExp/issues">Report Bug</a>
     ·
     <a href="https://github.com/okarra/ContiVQAExp/issues">Request Feature</a>
   </p>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -63,6 +61,10 @@
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
+
+<p align="justify">
+    ContiVQAExp is a software tool for designing, conducting, and analyzing subjective video quality assessment experiments. The special feature of this tool is the possibility of a continuous collection of a subject's assessment data for generic video quality characteristics during video playback. In this way, we are able to perform analyses that provide detailed insights into the relationships between the implementation of video quality characteristics and their effects on a viewer’s quality assessment.
+  </p>
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description`
 
@@ -104,7 +106,7 @@ This is an example of how to list things you need to use the software and how to
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/okarras/ContiVQAExp.git
    ```
 3. Install NPM packages
    ```sh
@@ -138,7 +140,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Feature 3
     - [ ] Nested Feature
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/okarras/ContiVQAExp/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -176,7 +178,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/okarras/ContiVQAExp](https://github.com/okarras/ContiVQAExp)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
