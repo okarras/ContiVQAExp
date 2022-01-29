@@ -13,13 +13,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/okarras/ContiVQAExp">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="Images/logo.svg" alt="Logo" width="300" height="150">
   </a>
 
-<h3 align="center">ContiVQAExp</h3>
+<h3 align="center">Continuous Video Quality Assessment Experiments</h3>
 
   <p align="center">
-    This project provides a tool for designing, conducting, and analyzing continuous subjective video quality assessments experiments that support the continuous collection of a subject's assessment data for generic video quality characteristics during video playback.
+    This project provides a tool for designing, conducting, and analyzing subjective video quality assessment experiments that support the continuous collection of a subject's assessment data for generic video quality characteristics during video playback.
     <br />
     <a href="https://github.com/okarras/ContiVQAExp">View Demo</a>
     ·
@@ -209,4 +209,4 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [linkedin-url]: https://linkedin.com/in/oliver-karras
 [twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?style=for-the-badge&logo=twitter&colorB=555
 [twitter-url]: https://twitter.com/OliverKarras
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/logo.svg
