@@ -77,6 +77,8 @@ We use [Visual Studio Code](https://code.visualstudio.com/) for developement and
 <!-- USAGE EXAMPLES -->
 ## Usage
 
+<img src="Screenshots/design experiment.png" alt="Design experiment GUI" width="800" height="600">
+
 This space will show useful examples of how a project can be used. Additional screenshots and demos will be presented in this space.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
