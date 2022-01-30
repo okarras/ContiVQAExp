@@ -77,8 +77,7 @@ We use [Visual Studio Code](https://code.visualstudio.com/) for developement and
 ## Usage
 
 ![GUI - Design an experiment](Screenshots/design_experiment.png)
-
-This space will show useful examples of how a project can be used. Additional screenshots and demos will be presented in this space.
+ContiVQAEXp supports the design of video quality assessment experiments. A experiment includes a name, the video to be examined, a customizable set of demographics, a predefined assessment form for video quality, and a customizable input method for the continuous data collection during video playback. At the moment, the ContiVQAEXp supports a slider as well as radio buttons as input method. These input methods are completely customizable concerning the labels, the scale, and the number of radio buttons (2 - 10).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
