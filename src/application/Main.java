@@ -27,8 +27,8 @@ public class Main extends Application {
 			Main.setStageToFullScreen(primaryStage);
 			primaryStage.setMaximized(true);
 			primaryStage.setTitle("ContiVQAExp");
-			// Sets the icon of the SE institute to the stage
-			FileInputStream input = new FileInputStream("src/img/luh_se_logo.png");
+			// Sets the icon to the stage
+			FileInputStream input = new FileInputStream("src/img/logo_small.png");
 			primaryStage.getIcons().add(new Image(input));
 			primaryStage.show();
 		} catch(IOException e) {

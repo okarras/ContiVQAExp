@@ -60,18 +60,18 @@ public class CustomMenuBar {
         
         try {
         	// Set LUH Logo
-	        FileInputStream input = new FileInputStream("src/img/luh_logo.png");
-	        ImageView luhImgView = new ImageView(new Image(input));
-	        luhImgView.setFitHeight(100);
-	        luhImgView.setFitWidth(300);
+	        //FileInputStream input = new FileInputStream("src/img/luh_logo.png");
+	        //ImageView luhImgView = new ImageView(new Image(input));
+	        //luhImgView.setFitHeight(100);
+	        //luhImgView.setFitWidth(300);
 			
-	        // Set SE Logo
-	        input = new FileInputStream("src/img/luh_se_logo.png");
-	        ImageView seImgView = new ImageView(new Image(input));
-	        seImgView.setFitHeight(220);
-	        seImgView.setFitWidth(250);
+	        // Set Logo
+	        FileInputStream input = new FileInputStream("src/img/logo.png");
+	        ImageView imgView = new ImageView(new Image(input));
+	        imgView.setFitHeight(150);
+	        imgView.setFitWidth(250);
 	        
-	        imageBox.getChildren().addAll(luhImgView, seImgView);
+	        imageBox.getChildren().addAll(imgView);
         
         } catch (FileNotFoundException e1) {
 			e1.printStackTrace();
@@ -88,27 +88,27 @@ public class CustomMenuBar {
         uniBox.setAlignment(Pos.CENTER_LEFT);
         uniBox.setPadding(new Insets(5));
         uniBox.setSpacing(3);
-        Label uniLabel = new Label("University: ");
+        Label uniLabel = new Label("Project: ");
         uniLabel.setStyle("-fx-font-weight:700");
-        Label uniValue = new Label("Leibniz Universität Hannover");
+        Label uniValue = new Label("ContiVQAExp - Continuous Video Quality Assessment Experiments");
         uniBox.getChildren().addAll(uniLabel, uniValue);
         
         HBox instBox = new HBox();
         instBox.setAlignment(Pos.CENTER_LEFT);
         instBox.setPadding(new Insets(5));
         instBox.setSpacing(3);
-        Label instLabel = new Label("Research group: ");
+        Label instLabel = new Label("Project Lead: ");
         instLabel.setStyle("-fx-font-weight:700");
-        Label instValue = new Label("Software Engineering Institute (SE)");
+        Label instValue = new Label("Dr. rer. nat. Oliver Karras");
         instBox.getChildren().addAll(instLabel, instValue);
         
         HBox projectBox = new HBox();
         projectBox.setAlignment(Pos.CENTER_LEFT);
         projectBox.setPadding(new Insets(5));
         projectBox.setSpacing(3);
-        Label projectLabel = new Label("Project: ");
+        Label projectLabel = new Label("Developer: ");
         projectLabel.setStyle("-fx-font-weight:700");
-        Label projectValue = new Label("ViViReq - ContiVQAExp");
+        Label projectValue = new Label("Vignesh Arulmani Sankaranarayanan & Dr. rer. nat. Oliver Karras");
         projectBox.getChildren().addAll(projectLabel, projectValue);
         
         
@@ -144,8 +144,8 @@ public class CustomMenuBar {
         aboutStage.setScene(aboutScene);
         aboutStage.setResizable(false);
         aboutStage.initModality(Modality.APPLICATION_MODAL);
-        try {	// Sets the icon of the SE institute to the about stage
-        	FileInputStream logoInput = new FileInputStream("src/img/luh_se_logo.png");
+        try {	// Sets the icon to the about stage
+        	FileInputStream logoInput = new FileInputStream("src/img/logo_small.png");
         	aboutStage.getIcons().add(new Image(logoInput));
         } catch(IOException e) {
 			e.printStackTrace();
