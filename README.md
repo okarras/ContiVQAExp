@@ -137,6 +137,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [Vignesh Arulmani Sankaranarayanan](https://github.com/vignesh-a-s) as main developer of ContiVQAExp
+* [Vignesh Arulmani Sankaranarayanan](https://www.linkedin.com/in/vignesh-a-aa2672127/) - [@Vignesh-A-S](https://github.com/vignesh-a-s) as main developer of ContiVQAExp 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
