@@ -96,15 +96,11 @@ The details of the implementation of ContiVQAExp are reported in the following r
 >__Tool-Supported Data Collection for Experiments to Subjectively Assess Vision Videos Masters Thesis__<br/>
 >Leibniz Universität Hannover, 2019.
 
-ContiVQAExp was successfully used to design, conduct, and analyze subjective video quality assessment experiments in the following reference:
+ContiVQAExp was successfully used for subjective video quality assessment experiments in the following reference:
 
 >Alida Rohde<br/>
 >__Verification of Recommendations for the Production and Use of Vision Videos Based on Subjective Video Quality Assessments__<br/>
 >Leibniz Universität Hannover, 2020.
-
- __The genetic basis of natural variation in Caenorhabditis elegans telomere length__<br />
-Cook DE, Zdraljevic S, Tanny RE, Seo B, Riccardi DD, Noble LM, Rockman MV, Alkema MJ, Braendle C, Kammenga JE, Wang J, Kruglyak L, Fe ́ lix MA, Lee J, Andersen EC. <br />
-2016. Genetics 204:371–383. DOI: https://doi.org/10.1534/genetics.116. 191148, PMID: 27449056
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
