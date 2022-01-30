@@ -76,7 +76,7 @@ We use [Visual Studio Code](https://code.visualstudio.com/) for developement and
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-![GUI - Design an experiment](Screenshots\design_experiment.png)
+![GUI - Design an experiment](Screenshots/design_experiment.png)
 
 This space will show useful examples of how a project can be used. Additional screenshots and demos will be presented in this space.
 
