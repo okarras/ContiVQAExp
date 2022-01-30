@@ -33,17 +33,11 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-    </li>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#built-with">Built With</a></li>
+    <li><a href="#getting-started">Getting Started</a></li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#publications">Publications</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -54,7 +48,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<!--[![Product Name Screen Shot][product-screenshot]](https://github.com/okarras/ContiVQAExp)-->
 
 <p align="justify">
     ContiVQAExp is a software tool for designing, conducting, and analyzing subjective video quality assessment experiments. The special feature of this tool is the possibility of a continuous collection of a subject's assessment data for generic video quality characteristics during video playback. In this way, we are able to perform analyses that provide detailed insights into the relationships between the implementation of video quality characteristics and their effects on a viewer’s quality assessment.
@@ -62,7 +56,7 @@
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-### Built With
+## Built With
 
 * [OpenJDK](https://openjdk.java.net/)
 * [JavaFX](https://openjfx.io/)
@@ -85,6 +79,15 @@ This space will show useful examples of how a project can be used. Additional sc
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+<!-- PUBLICATIONS -->
+## Publications
+
+List references with links to publications this analysis was used for.
+
+ __The genetic basis of natural variation in Caenorhabditis elegans telomere length__<br />
+Cook DE, Zdraljevic S, Tanny RE, Seo B, Riccardi DD, Noble LM, Rockman MV, Alkema MJ, Braendle C, Kammenga JE, Wang J, Kruglyak L, Fe ́ lix MA, Lee J, Andersen EC. <br />
+2016. Genetics 204:371–383. DOI: https://doi.org/10.1534/genetics.116. 191148, PMID: 27449056
+
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -104,44 +107,20 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@OliverKarras](https://twitter.com/OliverKarras) - me@oliver-karras.de
-
-Project Link: [https://github.com/okarras/ContiVQAExp](https://github.com/okarras/ContiVQAExp)
+[Dr. rer. nat. Oliver Karras](https://www.oliver-karras.de) - [@OliverKarras](https://twitter.com/OliverKarras) - me@oliver-karras.de
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [Vignesh Arulmani Sankaranarayanan](https://www.linkedin.com/in/vignesh-arulmani-sankaranarayanan-aa2672127/) as main developer of ContiVQAExp
+* [Vignesh Arulmani Sankaranarayanan](https://github.com/vignesh-a-s) as main developer of ContiVQAExp
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/okarras/ContiVQAExp.svg?style=for-the-badge
-[contributors-url]: https://github.com/okarras/ContiVQAExp/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/okarras/ContiVQAExp.svg?style=for-the-badge
-[forks-url]: https://github.com/okarras/ContiVQAExp/network/members
-[stars-shield]: https://img.shields.io/github/stars/okarras/ContiVQAExp.svg?style=for-the-badge
-[stars-url]: https://github.com/okarras/ContiVQAExp/stargazers
-[issues-shield]: https://img.shields.io/github/issues/okarras/ContiVQAExp.svg?style=for-the-badge
-[issues-url]: https://github.com/okarras/ContiVQAExp/issues
-[license-shield]: https://img.shields.io/github/license/okarras/ContiVQAExp.svg?style=for-the-badge
-[license-url]: https://github.com/okarras/ContiVQAExp/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/oliver-karras
-[twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?style=for-the-badge&logo=twitter&colorB=555
-[twitter-url]: https://twitter.com/OliverKarras
-[product-screenshot]: Images/logo.svg
