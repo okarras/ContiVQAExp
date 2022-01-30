@@ -14,7 +14,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/okarras/ContiVQAExp">
-    <img src="Images/logo.svg" alt="Logo" width="300" height="150">
+    <img src="src/img/logo.svg" alt="Logo" width="300" height="150">
   </a>
 
 <h2 align="center">Continuous Video Quality Assessment Experiments</h2>
