@@ -17,8 +17,8 @@
     <img src="src/img/logo.svg" alt="Logo" width="300" height="150">
   </a>
 
-<h2 align="center">Continuous Video Quality Assessment Experiments</h2>
-<h2 align="center"><i>"Quality is in the Eye of the Beholder"</i></h2>
+<h2 align="center">Continuous Video Quality Assessment Experiments<br/>
+<i>"Quality is in the Eye of the Beholder"</i></h2>
 
   <p align="center">
   <br />
