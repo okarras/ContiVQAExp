@@ -57,6 +57,7 @@
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+<!-- BUILT WITH -->
 ## Built With
 
 * [OpenJDK](https://openjdk.java.net/)
@@ -78,11 +79,6 @@ We use [Visual Studio Code](https://code.visualstudio.com/) for developement and
 ## Usage
 
 The application of ContiVQAExp is shown in the following [document](Screenshots/README.md) with screenshots and descriptions.
-
-![GUI - Design an experiment](Screenshots/02_design_experiment.png)
-ContiVQAExp supports the design of video quality assessment experiments. A experiment includes a name, the video to be examined, a customizable set of demographics, a predefined assessment form for video quality, and a customizable input method for the continuous data collection during video playback. At the moment, the ContiVQAExp supports a slider as well as radio buttons as input method. These input methods are completely customizable concerning the labels, the scale, and the number of radio buttons (2 - 10).
-
-![GUI - Design an experiment](Screenshots/design_experiment.png)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -106,6 +102,12 @@ ContiVQAExp was successfully used for subjective video quality assessment experi
 >Alida Rohde<br/>
 >__Verification of Recommendations for the Production and Use of Vision Videos Based on Subjective Video Quality Assessments__<br/>
 >Leibniz Universität Hannover, 2020.
+
+If you want to use and cite the vision video used in the exemplary [experiments](Experiments), use the following reference: 
+
+>Oliver Karras<br/>
+>__Vision Video - Interaction Process of the Purchase of a Product by a Customer in a Webshop__<br/>
+>Zenodo, https://doi.org/10.5281/zenodo.3696798, 2020.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
