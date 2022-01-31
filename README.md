@@ -34,7 +34,7 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#about-the-project">About the Project</a></li>
     <li><a href="#built-with">Built With</a></li>
     <li><a href="#getting-started">Getting Started</a></li>
     <li><a href="#usage">Usage</a></li>
@@ -47,7 +47,7 @@
 </details>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About the Project
 
 <!--[![Product Name Screen Shot][product-screenshot]](https://github.com/okarras/ContiVQAExp)-->
 
@@ -77,8 +77,10 @@ We use [Visual Studio Code](https://code.visualstudio.com/) for developement and
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-
 The application of ContiVQAExp is shown in the following [document](Screenshots/README.md) with screenshots and descriptions.
+
+![GUI - Design an experiment](Screenshots/02_design_experiment.png)
+ContiVQAExp supports the design of video quality assessment experiments. A experiment includes a name, the video to be examined, a customizable set of demographics, a predefined assessment form for video quality, and a customizable input method for the continuous data collection during video playback. At the moment, the ContiVQAExp supports a slider as well as radio buttons as input method. These input methods are completely customizable concerning the labels, the scale, and the number of radio buttons (2 - 10).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
