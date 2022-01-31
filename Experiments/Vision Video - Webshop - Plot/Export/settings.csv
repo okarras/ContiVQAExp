@@ -1,0 +1,11 @@
+Name,Vision Video - Webshop - Plot
+Video,Experiments\Vision Video - Webshop - Plot\Vision video - Interaction process of the purchase of a product by a customer in a webshop.mp4
+Display,Slider
+Min Value,1
+Max Value,5
+Min Label,Bad
+Max Label,Good
+Interval Type,continuous
+Assessment,Present
+Demo Labels,ID | Age | Role
+

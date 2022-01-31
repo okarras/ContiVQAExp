@@ -1,0 +1,34 @@
+ID,Characteristic,Value
+01,Overall video quality,good
+01,Image quality,-1
+01,Sound quality,0
+01,Video length,-2
+01,Focus,1
+01,Plot,1
+01,Prior knowledge,-2
+01,Essence,1
+01,Clutter,-2
+01,Clarity,1
+01,Completeness,0
+01,Pleasure,0
+01,Intention,1
+01,Sense of responsibility,0
+01,Support,1
+01,Stability,1
+02,Overall video quality,very good
+02,Image quality,2
+02,Sound quality,0
+02,Video length,-2
+02,Focus,2
+02,Plot,1
+02,Prior knowledge,-1
+02,Essence,1
+02,Clutter,-1
+02,Clarity,0
+02,Completeness,1
+02,Pleasure,1
+02,Intention,2
+02,Sense of responsibility,0
+02,Support,1
+02,Stability,1
+

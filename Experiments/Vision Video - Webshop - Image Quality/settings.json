@@ -1,0 +1,17 @@
+{
+  "name": "Vision Video - Webshop - Image Quality",
+  "video": "Experiments\\Vision Video - Webshop - Image Quality\\Vision video - Interaction process of the purchase of a product by a customer in a webshop.mp4",
+  "display": "Radio Buttons",
+  "settings": {
+    "buttonNum": "5",
+    "labels": [
+      "very bad",
+      "bad",
+      "neutral",
+      "good",
+      "very good"
+    ],
+    "minLabel": "",
+    "maxLabel": ""
+  }
+}
