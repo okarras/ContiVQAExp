@@ -28,7 +28,7 @@
 <!-- ABOUT THIS DOCUMENT -->
 ## About this Document
 <p align="justify">
-    This document demonstrates the application of ContiVQAExp with screenshots and descriptions for designing, conducting, and analyzing subjective video quality assessment experiments. Each screenshot shows one of the central views of ContiVQAExp with an explanation of the associated functions.
+    This document demonstrates the application of ContiVQAExp with screenshots and descriptions for designing, conducting, and analyzing subjective video quality assessment experiments. Each screenshot shows one of the central views of ContiVQAExp with explanations of the associated functions.
 </p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
