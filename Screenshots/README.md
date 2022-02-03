@@ -70,11 +70,13 @@ ContiVQAExp offers experimenters the possibility to use a predefined vision vide
 <!-- ANALYZE ASSESSMENT DATA OF SINGLE SUBJECT -->
 ## Analyze Assessment Data of Single Subject
 ![GUI - Analyze Assessment Data of Single Subject](06_analyze_single_subject_assessment_data.png)
+ContiVQAExp provides experimenters with the ability to examine the collected data immediately after the continuous video quality assessment of an experiment session with a subject. As part of this analysis, experimenters can navigate to specific parts of the video by interacting with the graph. Experimenters can take snapshots of the particular video parts and supplement them with their own comments or comments from the subject to document the findings and insights.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ANALYZE ALL ASSESSMENT DATA -->
 ## Analyze all Assessment Data
 ![GUI - Analyze all Assessment Data](07_analyze_all_assessment_data.png)
+ContiVQAExp also provides experimenters with the ability to examine the collected data of all subjects. As part of this analysis, experimenters can navigate to specific parts of the video by interacting with the graph. Experimenters can take snapshots of the particular video parts and supplement them with their comments to document the findings and insights. In addition, ContiVQAExp provides different aggregated analyses using the mean, median, and standard deviation.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
