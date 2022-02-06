@@ -35,48 +35,62 @@
 <!-- MANAGE EXPERIMENTS -->
 ## Manage Experiments
 ![GUI - Manage experiments](01_manage_experiments.png)
+<p align="justify">
 ContiVQAExp supports the management of experiments and their associated subjects to facilitate the experimenter's handling of the respective data sets. In addition, all collected data (demographics, continuous video quality assessments, results of the predefined assessment form on video quality, and internal analysis results) can be exported all as CSV files for subsequent analysis in other software tools.
+</p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- DESIGN EXPERIMENT -->
 ## Design an Experiment
 ![GUI - Design an experiment](02_design_experiment.png)
+<p align="justify">
 ContiVQAExp supports the design of video quality assessment experiments. An experiment includes a name, the video to be examined, a customizable set of demographics, a predefined assessment form for video quality, and a customizable input method for the continuous data collection during video playback. At the moment, the ContiVQAExp supports a slider as well as radio buttons as an input method. These input methods are completely customizable concerning the labels, the scale, and the number of radio buttons (2 - 10).
+</p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- COLLECT DEMOGRAPHICS -->
 ## Collect Demographics
 ![GUI - Collect Demographics](03_collect_demographics.png)
+<p align="justify">
 ContiVQA supports the collection of demographics at the beginning of an experiement session with a subject. These demographics can be defined as part of the experiment design and can be retrieved and exported in ContiVQA at any time.
+</p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONDUCT EXPERIMENT -->
 ## Conduct Continuous Video Quality Assessment
 ![GUI - Conduct Continuous Video Quality Assessment](04_conduct_experiment.png)
+<p align="justify">
 In ContiVQAExp, a subject can continuously assess his or her current perception of a quality characteristic under investigation during video playback by the defined input method, in this case a slider. In case of problems, such as distractions, ContiVQAExp supports the repetition of the continuous assessment either completely or from a certain point in the video.
+</p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ENTER ASSESSMENT FORM -->
 ## Enter Predefined Video Quality Assessment Form
 ![GUI - Enter Predefined Video Quality Assessment Form](05_enter_predefined_assessment_form.png)
-ContiVQAExp offers experimenters the possibility to use a predefined vision video quality assessment form after the continuous video quality assessment. Based on their proposed vision video quality model, [Karras et al.](https://www.sciencedirect.com/science/article/abs/pii/S0164121219302535) developed this assessment form to collect the subject's assessment of the overall quality and each quality characteristic of the quality model for vision videos. 
+<p align="justify">
+ContiVQAExp offers experimenters the possibility to use a predefined vision video quality assessment form after the continuous video quality assessment. Based on their proposed vision video quality model, [Karras et al.](https://www.sciencedirect.com/science/article/abs/pii/S0164121219302535) developed this assessment form to collect the subject's assessment of the overall quality and each quality characteristic of the quality model for vision videos.
+</p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ANALYZE ASSESSMENT DATA OF SINGLE SUBJECT -->
 ## Analyze Assessment Data of Single Subject
 ![GUI - Analyze Assessment Data of Single Subject](06_analyze_single_subject_assessment_data.png)
+<p align="justify">
 ContiVQAExp provides experimenters with the ability to examine the collected data immediately after the continuous video quality assessment of an experiment session with a subject. As part of this analysis, experimenters can navigate to specific parts of the video by interacting with the graph. Experimenters can take snapshots of the particular video parts and supplement them with their own comments or comments from the subject to document the findings and insights.
+</p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ANALYZE ALL ASSESSMENT DATA -->
 ## Analyze all Assessment Data
 ![GUI - Analyze all Assessment Data](07_analyze_all_assessment_data.png)
+<p align="justify">
 ContiVQAExp also provides experimenters with the ability to examine the collected data of all subjects. As part of this analysis, experimenters can navigate to specific parts of the video by interacting with the graph. Experimenters can take snapshots of the particular video parts and supplement them with their comments to document the findings and insights. In addition, ContiVQAExp provides different aggregated analyses using the mean, median, and standard deviation.
+</p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
