@@ -86,7 +86,7 @@ The application of ContiVQAExp is shown in the following [document](Screenshots/
 
 If you want to cite this project, we suggest the following reference:
 
->Oliver Karras, Jil Klünder, and Kurt Schneider:<br/>
+>Oliver Karras, Jil Klünder, and Kurt Schneider<br/>
 >[__Tool-Supported Experiments for Continuously Collecting Data of Subjective Video Quality Assessments During Video Playback__](https://pi.informatik.uni-siegen.de/gi/stt/40_1/01_Fachgruppenberichte/FGRE2019/Karras.pdf)<br/>
 >In: Softwaretechnik-Trends, 40 (1), 2019.
 
