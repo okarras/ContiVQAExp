@@ -1,0 +1,29 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  ContiVQAExp: Continuous Video Quality Assessment
+  Experiments
+message: Please cite this software using these metadata.
+type: software
+authors:
+  - given-names: Oliver
+    family-names: Karras
+    email: me@oliver-karras.de
+    orcid: 'https://orcid.org/0000-0001-5336-6899'
+identifiers:
+  - type: url
+    value: >-
+      https://fb-swt.gi.de/fileadmin/FB/SWT/Softwaretechnik-Trends/Verzeichnis/Band_40_Heft_1/Karras.pdf
+    description: Corresponding publication
+  - type: doi
+    value: 10.15488/11963
+    description: Corresponding publication
+repository-code: 'https://github.com/okarras/ContiVQAExp'
+keywords:
+  - video
+  - quality
+  - experiment
+  - analyzer
+license: MIT
