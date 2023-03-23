@@ -106,7 +106,7 @@ If you want to use and cite the vision video used in the exemplary [experiments]
 
 >Oliver Karras<br/>
 >[__Vision Video - Interaction Process of the Purchase of a Product by a Customer in a Webshop__](https://doi.org/10.5281/zenodo.3696798)<br/>
->Zenodo, https://doi.org/10.5281/zenodo.3696798, 2020.
+>Zenodo, 2020.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
