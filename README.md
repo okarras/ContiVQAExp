@@ -87,19 +87,19 @@ The application of ContiVQAExp is shown in the following [document](Screenshots/
 If you want to cite this project, we suggest the following reference:
 
 >Oliver Karras, Jil Klünder, and Kurt Schneider<br/>
->[__Tool-Supported Experiments for Continuously Collecting Data of Subjective Video Quality Assessments During Video Playback__](https://pi.informatik.uni-siegen.de/gi/stt/40_1/01_Fachgruppenberichte/FGRE2019/Karras.pdf)<br/>
+>[__Tool-Supported Experiments for Continuously Collecting Data of Subjective Video Quality Assessments During Video Playback__](https://fb-swt.gi.de/fileadmin/FB/SWT/Softwaretechnik-Trends/Verzeichnis/Band_40_Heft_1/Karras.pdf)<br/>
 >In: Softwaretechnik-Trends, 40 (1), 2019.
 
 The details of the implementation of ContiVQAExp are reported in the following reference:
 
 >Vignesh Arulmani Sankaranarayanan<br/>
->__Tool-Supported Data Collection for Experiments to Subjectively Assess Vision Videos Masters Thesis__<br/>
+>[__Tool-Supported Data Collection for Experiments to Subjectively Assess Vision Videos Masters Thesis__](http://doi.org/10.15488/11963)<br/>
 >Leibniz Universität Hannover, 2019.
 
 ContiVQAExp was successfully used for subjective video quality assessment experiments in the following reference:
 
 >Alida Rohde<br/>
->__Verification of Recommendations for the Production and Use of Vision Videos Based on Subjective Video Quality Assessments__<br/>
+>[__Verification of Recommendations for the Production and Use of Vision Videos Based on Subjective Video Quality Assessments__](http://doi.org/10.15488/11959)<br/>
 >Leibniz Universität Hannover, 2020.
 
 If you want to use and cite the vision video used in the exemplary [experiments](Experiments), use the following reference: 
